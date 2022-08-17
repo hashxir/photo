@@ -112,7 +112,7 @@ h3
 
     .photo:hover
     {
-        width: 110%;
+        width: 70%;
         border-radius: 5px;
     }
 }
