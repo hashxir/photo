@@ -110,7 +110,7 @@ h3
         border-radius: 10px;
     }
 
-    .click .photo
+    .photo:hover
     {
         width: 50%;
         border-radius: 5px;
